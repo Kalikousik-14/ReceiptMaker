@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">arthiTraders</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+
+    <!-- Change the following strings as required -->
+    <string name="back4app_app_id">ydnbXO1U59eJS7PyFriTmFZu2574TCrOJZ3XjK8o</string>
+    <string name="back4app_client_key">L4h1zinzEQagQmQryGTbSLhaBMYeHXvUT3T5PlFw</string>
+    <string name="important_to_be_noted">IMPORTANT TO BE NOTED</string>
+
+
+</resources>
